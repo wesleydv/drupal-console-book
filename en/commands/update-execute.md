@@ -10,5 +10,5 @@ $ upe
 ## Available arguments
 Argument | Details
 ---------|-------------
-module | The Module name.
+module | The Module name or 'all' for all modules
 update-n | Specific Update N function to be executed
